@@ -24,4 +24,4 @@
 
     -Found in the lucid diagram
     
-- Recreated the lucid logic diagram - https://lucid.app/lucidchart/c0421508-9384-4f72-bc86-f9ff29cb6f3a/edit?viewport_loc=-321%2C-142%2C1764%2C949%2C0_0&invitationId=inv_1cabb8f7-12ef-4158-be5f-75b9bfc6e292   <- I still have to figure out some formatting, I'll do better next time.
+- Recreated the lucid logic diagram - https://lucid.app/lucidchart/c0421508-9384-4f72-bc86-f9ff29cb6f3a/edit?viewport_loc=-321%2C-142%2C1764%2C949%2C0_0&invitationId=inv_1cabb8f7-12ef-4158-be5f-75b9bfc6e292   <- I still have to figure out some formatting, I'll do better next time. 
